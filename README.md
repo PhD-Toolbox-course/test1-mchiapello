@@ -2,7 +2,7 @@
 
 This exercise is a way to test what you learn during the course.
 
-If you have any problem please one an [issue](), one of the teachers will help you.
+If you have any problem please one an [issue](https://github.com/PhD-Toolbox-course/2018_PhD_Toolbox_exercise/issues), one of the teachers will help you.
 
 ### Exercise:
 
