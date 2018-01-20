@@ -1,10 +1,12 @@
-# PhD Toolbox 2018: exercise
+# PhD Toolbox 2018: 
+
+## Exercise 1
 
 This exercise is a way to test what you learn during the course.
 
 If you have any problem please one an [issue](https://github.com/PhD-Toolbox-course/2018_PhD_Toolbox_exercise/issues), one of the teachers will help you.
 
-### Exercise:
+### Exercise description:
 
 - Create the folder for the analysis
 - Download the data: https://ndownloader.figshare.com/files/1797870
